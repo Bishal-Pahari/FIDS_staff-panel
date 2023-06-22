@@ -6,7 +6,7 @@ The FIDS Staff Panel is being developed and enhanced to provide an efficient and
 
 # FIDS Staff Panel
 
-The FIDS Staff Panel is a web application designed for airport staff to manage and update flight information display system (FIDS) data. This repository contains the source code for the FIDS Staff Panel application.
+The FIDS Staff Panel is a web application developed specifically for airport staff to efficiently manage and update data within the Flight Information Display System (FIDS). The source code for this application is stored within this repository, which was created as part of a college project.
 
 ## Associated FIDS Repository
 
@@ -22,9 +22,11 @@ Front-end: HTML, CSS, JavaScript
 Back-end: Django
 DB: MySql 
 
+
 ## Contribution
 Contributions to the FIDS Staff Panel project are welcome! If you find any issues or want to suggest enhancements, please submit a pull request or open an issue in this repository.
 
 When contributing, please follow the existing code style, maintain clear commit messages, and ensure proper documentation for any changes or new features.
 
-
+##Screenshot
+![staff-panel](https://github.com/Bishal-Pahari/FIDS_staff-panel/assets/61013432/7575fd35-0c6b-49f0-9f62-b51dd3a7a602)
