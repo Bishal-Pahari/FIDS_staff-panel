@@ -28,5 +28,6 @@ Contributions to the FIDS Staff Panel project are welcome! If you find any issue
 
 When contributing, please follow the existing code style, maintain clear commit messages, and ensure proper documentation for any changes or new features.
 
-##Screenshot
+## Screenshot
+
 ![staff-panel](https://github.com/Bishal-Pahari/FIDS_staff-panel/assets/61013432/7575fd35-0c6b-49f0-9f62-b51dd3a7a602)
