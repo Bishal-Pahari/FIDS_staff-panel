@@ -12,6 +12,8 @@ The FIDS Staff Panel is a web application developed specifically for airport sta
 
 This repository is the associated codebase for the FIDS (Flight Information System) application. The FIDS repository, which contains the other functionalities of the flight information system, is planned to be released separately after full development. The FIDS relies on the data that is being inserted using this staff panel.
 
+Click here for FIDS repo 👉 [FIDS repo](https://github.com/Bishal-Pahari/eAero.git)
+
 ## Features
 **Flight Information Management:** Airport staff can add and update flight information such as flight numbers, destinations, departure/arrival times, gate numbers, and status.
 **User Authentication:** Staff members can log in to the system using their credentials to access the staff panel.
